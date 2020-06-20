@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.home-page-home{
+  width: 100%;
+  display: flex;
+}
+.home-header{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items: space-between;
+  text-decoration: none;
+}
+.home-link{
+  width: 25%;
+  text-decoration: none;
+}
+.menu-link{
+  width: 25%;
+
+  text-decoration: none;
+}
+.order{
+  width: 25%;
+
+  text-decoration: none;
+}
